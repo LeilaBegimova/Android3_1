@@ -34,10 +34,10 @@ class PreferensHelper(val contex: Context)  {
         }
 
     companion object{
-        private const val USER_NAME_KEY = "jdj"
-        private const val AGE_KEY = "aaa"
-        private const val EMAIL_KEY = "ss"
-        private const val PASSWORD_KEY = "aa"
+        private const val USER_NAME_KEY = "name"
+        private const val AGE_KEY = "age"
+        private const val EMAIL_KEY = "email"
+        private const val PASSWORD_KEY = "password"
         private const val IS_SHOW_REGISTER = "isShowRegister"
     }
 }
