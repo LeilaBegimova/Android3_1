@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android3_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="use_r_name">User\n</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing in</string>
+    <string name="age">Age</string>
+    <string name="change">Change</string>
+</resources>
